@@ -1,22 +1,22 @@
 # Predictive-Maintenance-System-of-Maritime-Vessel-and-Port-Logistics-Equipment
 
 ## Languages:
-- *Python*
-
+- **Python**
+- 
 ## Important Libraries:
-- *Pandas*
-- *NumPy*
-- *Matplotlib*
-- *Seaborn*
-- *Scikit-learn*
-- *PySpark*
-- *PySpark.SQL*
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
+- **PySpark**
+- **PySpark.SQL**
 
 ## Technologies:
-- *MySQL* 
-- *Data Analysis*
-- *Machine Learning*
-- *Big Data*
+- **MySQL**
+- **Data Analysis**
+- **Machine Learning**
+- **Big Data Analytics**
 
 ### Abstract:
 This project focuses on predictive maintenance for vessel and port handling equipment. Utilizing various datasets from Kaggle, we developed models to predict the condition of critical components, ensuring operational efficiency and reducing downtime.
