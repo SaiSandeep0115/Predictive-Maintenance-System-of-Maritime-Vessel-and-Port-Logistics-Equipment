@@ -2,7 +2,7 @@
 
 ## Languages:
 - **Python**
-- 
+  
 ## Important Libraries:
 - **Pandas**
 - **NumPy**
