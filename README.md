@@ -21,9 +21,8 @@
 ### Abstract:
 This project focuses on predictive maintenance for vessel and port handling equipment. Utilizing various datasets from Kaggle, we developed models to predict the condition of critical components, ensuring operational efficiency and reducing downtime.
 
-### Dataset:
-Naval Vessel Dataset: Includes data on turbines and compressors to assess their conditions.
-AGV Datasets: Data on bearings, servomotors, and battery Remaining Useful Life (RUL).
+### Datasets Source:
+Kaggle
 
 ### Methodology:
 Data Preprocessing: Cleaned and transformed the datasets for analysis.
