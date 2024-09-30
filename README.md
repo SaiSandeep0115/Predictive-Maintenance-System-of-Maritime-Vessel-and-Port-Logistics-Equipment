@@ -19,7 +19,7 @@
 - **Big Data Analytics**
 
 ### Abstract:
-This project focuses on predictive maintenance for vessel and port handling equipment. Utilizing various datasets from Kaggle, we developed models to predict the condition of critical components, ensuring operational efficiency and reducing downtime.
+This project focuses on predictive maintenance for vessel and port handling equipment. Utilizing various datasets from Kaggle, I developed models to predict the condition of critical components, ensuring operational efficiency and reducing downtime.
 
 ### Datasets Source:
 Kaggle
